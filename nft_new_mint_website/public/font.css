@@ -1,0 +1,20 @@
+
+@font-face {  
+    font-family: logotype;  
+    src: url('./fonts/setbackt.ttf');
+  }
+
+@font-face {
+    font-family: 'logotype-small';
+    src: url('./fonts/joystix_monospace-webfont.woff2'), url('./fonts/joystix_monospace-webfont.woff2');
+}
+
+@font-face {
+    font-family: 'screen1';
+    src: url('./fonts/MunroSmall.ttf');
+}
+
+@font-face {
+    font-family: 'pixelar';
+    src: url('./fonts/pixelar_regular-webfont.woff2'), url('../fonts/pixelar_regular-webfont.woff');
+}
