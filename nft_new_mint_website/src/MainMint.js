@@ -44,16 +44,14 @@ const 　MainMint = ({ accounts, setAccounts})=>{
         <Flex justify="center" align="center" height="100vh" padding="150px">
             <Box width="520px" >
                 <div>
-                    <Text fontSize="48px" textShadow="0 5px #000000">GENN</Text>
+                    <Text fontSize="48px" textShadow="0 5px #000000">GENNO</Text>
                     <Text
                         fontSize="30px"
                         letterSpacing = "-5.5%"
                         fontFamily = "VT323"
                         textShadow= "0 2px 2px #000000"
                     >
-                        Nisikigoi-
-She was transformed to a maiden by the power of people’s prayers. She can purify polluted water and mind. 
-The city flourished with her arrival. People who get along with her will be fortune.
+                       In the eastern plateau Phakumda ，the master felt a dark force creeping toward the earth. At the same time, An enlightenment monk felt the change of rivers and mountains. They communicate through spiritual strength to assemble a team of defenders with great psychic powers.
                     </Text>
                 </div>
                
