@@ -3,7 +3,7 @@ import { ethers, BigNumber } from 'ethers';
 import {Box,Button,Flex,Input,Text} from "@chakra-ui/react";
 import LinFreeMint from './LinFreeMint.json';
 
-const LinFreeMintAddress = "0x16692F9f922c87c68156d275d882fC7BfD837347";
+const LinFreeMintAddress = "0x970023b85ef0034e33ca3b9916b4187c4cd9a05f";
 
 const 　MainMint = ({ accounts, setAccounts})=>{
     // const [mintAmount, setMintAmount] = useState(1);
